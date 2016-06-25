@@ -59,6 +59,9 @@ Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati 
 * GDG Gela - [Site](http://www.gdggela.org/)
 * CoderDojo Gela - [Site](http://www.coderdojogela.it/), [FB Page](https://www.facebook.com/coderdojogela)
 
+### Ragusa
+* Ragusa Digitale - [Site](http://www.ragusadigitale.it), [FB Page](https://www.facebook.com/ragusadigitale/), [FB Group](https://www.facebook.com/groups/ragusadigitale/)
+
 ### Incubatori, Acceleratori e Hubs
 
 #### Incubatori
